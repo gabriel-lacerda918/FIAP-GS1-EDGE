@@ -1,4 +1,4 @@
-# Sistema de Monitoramento de Qualidade da Água - OceanWatch
+# Sistema de Monitoramento de Qualidade da Água - **OceanGuard**
 
 ![Technologies](https://img.shields.io/badge/Arduino-Uno-blue) ![Technologies](https://img.shields.io/badge/Language-C++-brightgreen) ![Technologies](https://img.shields.io/badge/Simulator-Tinkercad-orange)
 
